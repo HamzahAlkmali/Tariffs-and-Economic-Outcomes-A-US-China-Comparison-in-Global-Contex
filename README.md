@@ -102,24 +102,24 @@ Reveals a weak-to-negative correlation between tariff rates and FDI inflows for 
 ![scatter_tariff_gdp](charts/scatter_tariff_gdp.png)  
 Provides a neutral cross-country view of tariff rates vs. GDP size, reinforcing the need for nonlinear modeling.
 
-### `Countries-GDP-Growth-1990-2015.png`  
-![Countries-GDP-Growth-1990-2015](charts/Countries-GDP-Growth-1990-2015.png)  
+### `countries-gdp-growth-1990-2015.png`  
+![countries-gdp-growth-1990-2015](charts/countries-gdp-growth-1990-2015.png)  
 Shows long-run GDP performance globally—China among top performers.
 
-### `Countries-FDI-2020–Graduated.png`  
-![Countries-FDI-2020–Graduated](charts/Countries-FDI-2020–Graduated.png)  
+### `countries-fdi-2020-graduated.png`  
+![countries-fdi-2020-graduated](charts/countries-fdi-2020-graduated.png)  
 Net FDI flow map: China shows negative value due to major outbound investment.
 
-### `FDI-Magnitude-2020-Bubble.png`  
-![FDI-Magnitude-2020-Bubble](charts/FDI-Magnitude-2020-Bubble.png)  
+### `fdi-magnitude-2020-bubble.png`  
+![fdi-magnitude-2020-bubble](charts/fdi-magnitude-2020-bubble.png)  
 Visualizes absolute FDI volumes—USA and China as global centers of capital exchange.
 
-### `Countries-Trade-Balance-2020.png`  
-![Countries-Trade-Balance-2020](charts/Countries-Trade-Balance-2020.png)  
+### `countries-trade-balance-2020.png`  
+![countries-trade-balance-2020](charts/countries-trade-balance-2020.png)  
 Color map of surpluses/deficits. Confirms US deficit pattern and China's surplus dominance.
 
-### `tariff_rate-2020.png`  
-![tariff_rate-2020](charts/tariff_rate-2020.png)  
+### `tariff-rate-2020.png`  
+![tariff-rate-2020](charts/tariff-rate-2020.png)  
 Shows current global tariff landscape—USA among high-income countries with rising average tariffs, China moderate.
 
 ### `tariff_gdp_growth_curves.png`  
