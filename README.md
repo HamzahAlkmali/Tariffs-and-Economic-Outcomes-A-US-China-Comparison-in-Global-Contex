@@ -197,7 +197,7 @@ This script:
 
 ---
 
-### Step 7: Visualize with QGIS (Optional)
+### Step 7: Visualize with QGIS 
 
 To view or edit maps:
 
