@@ -74,7 +74,7 @@ This suggests a **growth-maximizing tariff rate exists**, beyond which economic 
 
 ---
 
-## 4. Visualizations and Argument Integration
+## 4. Visualizations and Argument Integration.
 
 Charts located in `/charts/` support key arguments throughout:
 
