@@ -78,20 +78,53 @@ This suggests a **growth-maximizing tariff rate exists**, beyond which economic 
 
 Charts located in `/charts/` support key arguments throughout:
 
-| File Name | Description & Interpretation |
-|-----------|-------------------------------|
-| `gdp_trend.png` | Shows diverging GDP trajectories. China's GDP grew steadily post-WTO accession, while the USA maintained stable but slower growth. |
-| `tariff_trend.png` | Demonstrates China’s liberalization vs. the USA’s post-2016 rise in tariffs, emphasizing the policy divergence. |
-| `fdi_trend.png` | Reflects confidence in China during its reform period. USA’s FDI is more cyclical and responds to investor sentiment. |
-| `trade_balance_trend.png` | Displays persistent US deficits and China’s surpluses, despite shifts in tariff policy—undermining the idea that tariffs alone can fix trade imbalances. |
-| `scatter_tariff_fdi.png` | Reveals a weak-to-negative correlation between tariff rates and FDI inflows for both countries—suggesting higher tariffs deter investment. |
-| `scatter_tariff_gdp.png` | Provides a neutral cross-country view of tariff rates vs. GDP size, reinforcing the need for nonlinear modeling. |
-| `Countries-GDP-Growth-1990-2015.png` | Shows long-run GDP performance globally—China among top performers. |
-| `Countries-FDI-2020–Graduated.png` | Net FDI flow map: China shows negative value due to major outbound investment |
-| `FDI-Magnitude-2020-Bubble.png` | Visualizes absolute FDI volumes—USA and China as global centers of capital exchange. |
-| `Countries-Trade-Balance-2020.png` | Color map of surpluses/deficits. Confirms US deficit pattern and China's surplus dominance. |
-| `tariff_rate-2020.png` | Shows current global tariff landscape—USA among high-income countries with rising average tariffs, China moderate. |
-| `tariff_gdp_growth_curves.png` | Core empirical visualization. Illustrates the nonlinear curve from both OLS and fixed effects models, and plots USA and China at key tariff points (2020 and 2025 projections). |
+### `gdp_trend.png`  
+![gdp_trend](charts/gdp_trend.png)  
+Shows diverging GDP trajectories. China's GDP grew steadily post-WTO accession, while the USA maintained stable but slower growth.
+
+### `tariff_trend.png`  
+![tariff_trend](charts/tariff_trend.png)  
+Demonstrates China’s liberalization vs. the USA’s post-2016 rise in tariffs, emphasizing the policy divergence.
+
+### `fdi_trend.png`  
+![fdi_trend](charts/fdi_trend.png)  
+Reflects confidence in China during its reform period. USA’s FDI is more cyclical and responds to investor sentiment.
+
+### `trade_balance_trend.png`  
+![trade_balance_trend](charts/trade_balance_trend.png)  
+Displays persistent US deficits and China’s surpluses, despite shifts in tariff policy—undermining the idea that tariffs alone can fix trade imbalances.
+
+### `scatter_tariff_fdi.png`  
+![scatter_tariff_fdi](charts/scatter_tariff_fdi.png)  
+Reveals a weak-to-negative correlation between tariff rates and FDI inflows for both countries—suggesting higher tariffs deter investment.
+
+### `scatter_tariff_gdp.png`  
+![scatter_tariff_gdp](charts/scatter_tariff_gdp.png)  
+Provides a neutral cross-country view of tariff rates vs. GDP size, reinforcing the need for nonlinear modeling.
+
+### `Countries-GDP-Growth-1990-2015.png`  
+![Countries-GDP-Growth-1990-2015](charts/Countries-GDP-Growth-1990-2015.png)  
+Shows long-run GDP performance globally—China among top performers.
+
+### `Countries-FDI-2020–Graduated.png`  
+![Countries-FDI-2020–Graduated](charts/Countries-FDI-2020–Graduated.png)  
+Net FDI flow map: China shows negative value due to major outbound investment.
+
+### `FDI-Magnitude-2020-Bubble.png`  
+![FDI-Magnitude-2020-Bubble](charts/FDI-Magnitude-2020-Bubble.png)  
+Visualizes absolute FDI volumes—USA and China as global centers of capital exchange.
+
+### `Countries-Trade-Balance-2020.png`  
+![Countries-Trade-Balance-2020](charts/Countries-Trade-Balance-2020.png)  
+Color map of surpluses/deficits. Confirms US deficit pattern and China's surplus dominance.
+
+### `tariff_rate-2020.png`  
+![tariff_rate-2020](charts/tariff_rate-2020.png)  
+Shows current global tariff landscape—USA among high-income countries with rising average tariffs, China moderate.
+
+### `tariff_gdp_growth_curves.png`  
+![tariff_gdp_growth_curves](tariff_gdp_growth_curves.png)  
+Core empirical visualization. Illustrates the nonlinear curve from both OLS and fixed effects models, and plots USA and China at key tariff points (2020 and 2025 projections).
 
 ------
 
