@@ -64,13 +64,35 @@ All work is conducted using one unified script:
 We estimate a nonlinear effect of tariffs on GDP growth via:
 
 ```
-GDP_growth = β₀ + β₁(Tariff) + β₂(Tariff²) + Controls + ε
+GDP_growth = β0 + β1(Tariff) + β2(Tariff²) + Controls + ε
 ```
 
-- **OLS** turning point ≈ **39.1%**
-- **Fixed Effects** (Stata) turning point ≈ **33.6%**
+* **OLS** turning point ≈ **39.1%**
+* **Fixed Effects** (Stata) turning point ≈ **33.6%**
+
+*Controls include the **Inflation Rate (CPI)** and fixed effects (in the panel model).*
+
 
 This suggests a **growth-maximizing tariff rate exists**, beyond which economic performance begins to decline. The quadratic curve is visualized in `tariff_gdp_growth_curves.png`, which also highlights where the **USA and China** fall relative to this turning point — with China historically closer to the optimal range, and the USA on the declining side after its post-2016 protectionist shift.
+
+
+We also conducted additional regressions with **FDI** and **Trade Balance** as dependent variables to evaluate the broader economic effects of tariff policy:
+
+* **FDI Regression**
+
+  ```
+  FDI = γ0 + γ1(Tariff) + γ2(Tariff²) + Controls + ν
+  ```
+
+  Results show a weak-to-negative relationship between tariffs and FDI inflows, suggesting that higher tariff rates may reduce foreign investment by increasing market uncertainty and reducing openness.
+
+* **Trade Balance Regression**
+
+  ```
+  TradeBalance = δ0 + δ1(Tariff) + δ2(Tariff²) + Controls + ξ
+  ```
+
+  Findings indicate that higher tariffs do not significantly improve the trade balance. Persistent U.S. deficits despite tariff hikes imply that deeper structural factors (e.g., consumption patterns, currency valuation, and global supply chains) play a more dominant role than tariff policy alone.
 
 ---
 
