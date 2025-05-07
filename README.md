@@ -112,8 +112,8 @@ Demonstrates China’s liberalization vs. the USA’s post-2016 rise in tariffs,
 ![fdi_trend](charts/fdi_trend.png)  
 Reflects confidence in China during its reform period. USA’s FDI is more cyclical and responds to investor sentiment.
 
-### `trade_balance_trend.png`  
-![trade_balance_trend](charts/trade_balance_trend.png)  
+### `Countries-Trade-Balance-2020.png`  
+![Countries-Trade-Balance-2020](charts/Countries-Trade-Balance-2020.png)  
 Displays persistent US deficits and China’s surpluses, despite shifts in tariff policy—undermining the idea that tariffs alone can fix trade imbalances.
 
 ### `scatter_tariff_fdi.png`  
