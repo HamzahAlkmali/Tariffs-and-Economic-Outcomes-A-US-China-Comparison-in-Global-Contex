@@ -96,7 +96,7 @@ We also conducted additional regressions with **FDI** and **Trade Balance** as d
 
 ---
 
-## 4. Visualizations and Argument Integration.
+## 4. Visualizations and Argument Integration
 
 Charts located in `/charts/` support key arguments throughout:
 
